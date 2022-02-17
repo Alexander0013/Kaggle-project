@@ -1,2 +1,2 @@
 # Kaggle-project
-practice data science project on kaggle
+Beginner level of data science projects on kaggle
